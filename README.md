@@ -40,11 +40,11 @@ https://due-ucd.herokuapp.com/
 
 ### Built With
 
+- React
 - GraphQL
 - Node.js
 - Express.js
 - MongoDB 
-- React
 
 ## ScreenShots
 
