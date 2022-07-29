@@ -16,7 +16,7 @@ import Signup from './pages/Signup';
 import NoMatch from './pages/NoMatch';
 
 const httpLink = createHttpLink({
-  uri: '/graphql',
+  uri: '/graphql', // relative
 });
 
 const authLink = setContext((_, { headers }) => {
